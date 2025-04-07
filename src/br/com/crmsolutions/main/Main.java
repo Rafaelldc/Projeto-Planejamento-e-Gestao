@@ -1,4 +1,4 @@
-package br.com.cremsolutions.main;
+package br.com.crmsolutions.main;
 
 import java.util.Scanner;
 
